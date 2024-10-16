@@ -1,8 +1,8 @@
-- 👋 Selam, Ben @AOMcodes
+- 👋 Selam, Ben Ozan
 - 👀 Bildiğim yazılım dilleri Python, AHK, LUA, JS, ve biraz HTML.
 - 🌱 Şuan Makine Öğrenim Algoritmalarını anlamaya çalışıyorum.
-- 💞️ Hayalim sosyal medya platformlarında 10K Abone olmak.
-- 📫 Bana nasıl ulaşabilirsin: İG: aomcodes
+- 💞️ Hayalim büyüyünce Google ya da NVIDIAda çalışmak.
+- 📫 Bana nasıl ulaşabilirsin: İG: ozanmrcmk
 - 😄 Adım Ozan.
 
 <!---
